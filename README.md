@@ -1,5 +1,25 @@
-# 💫 About Me:
-For this “About Me” section, you can write something simple and natural like this:<br><br>🔭 I’m currently working on Web Development and AI-based projects<br>👯 I’m looking to collaborate on interesting projects and hackathons<br>🤝 I’m looking for help with building real-world applications<br>🌱 I’m currently learning Full-Stack Development, React, Node.js and iOS Development<br>💬 Ask me about Java, Web Development, DSA and AI projects<br>⚡ Fun fact: I enjoy turning ideas into working projects and learning by building
+# 👋 Hi, I'm Naman Pal
+
+🎓 BTech CSE student at Galgotias University
+💻 Interested in Web Development, AI/ML, and iOS Development
+🌱 Currently learning React, Node.js, Java, Swift, and Full-Stack Development
+🧩 Practicing DSA and problem solving with Java
+🚀 Building projects to turn ideas into practical applications
+🤝 Open to collaborating on interesting projects, hackathons, and learning opportunities
+⚡ I learn best by building, experimenting, and improving
+
+### 🛠️ Currently Working With
+
+`Java` `JavaScript` `HTML` `CSS` `React` `Python` `Swift` `MySQL` `MongoDB` `Git`
+
+### 🎯 What I'm Exploring
+
+* Full-Stack Web Development
+* AI-powered applications
+* iOS App Development
+* Data Structures & Algorithms
+* Real-world projects and hackathons
+
 
 
 ## 🌐 Socials:
